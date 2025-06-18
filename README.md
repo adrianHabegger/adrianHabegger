@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Adrian
 
-<!--
-**adrianHabegger/adrianHabegger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin gelernter Produktionsmechaniker EFZ / Mechapraktiker – mit einer tiefen Leidenschaft für Technik, Elektronik und digitale Selbstbestimmung.
 
-Here are some ideas to get you started:
+🔧 Seit meiner Jugend entwickle ich eigene Geräte und Lösungen – vom ESP32-Gateway bis zur Stammbaum-Software mit Datenimport.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Was ich mache
+
+- 🐾 **Katzenwaage mit Heizung & Benachrichtigung** – ESPHome, MQTT, Home Assistant
+- 🌐 **IoT-Gateway über USB-C & LAN** – PoE, RS485, Home Assistant, lokal & sicher
+- 🌳 **Genealogie-Software** – Python, SQLite, automatischer CSV-Import
+- 🧰 **Eigene Shell-Tools & Automationen** – für Dateisortierung, Sicherung, Medienverwaltung
+- 📦 **digifürdi** – mein Herzensprojekt: Technik einfach & menschlich
+
+---
+
+## 📂 Repositories & Projekte
+
+| Projekt         | Beschreibung                                                                 |
+|----------------|-------------------------------------------------------------------------------|
+| [esp32-projekte](https://github.com/adrianHabegger/esp32-projekte) | YAML-Dateien, Schaltpläne und Beispiele für ESPHome-Geräte              |
+| [linux-tools-adi](https://github.com/adrianHabegger/linux-tools-adi) | Shell-Skripte zur Dateisortierung, Systempflege und Automatisierung     |
+| [digifuerdi](https://github.com/digifuerdi/digifuerdi) | Dienst für Technik-Einsteiger:innen – lokal, ehrlich, verständlich       |
+
+---
+
+## 📫 Kontakt
+
+📍 Emmental, Schweiz  
+📨 adrian.habegger@proton.me *(Beispiel – anpassen!)*  
+🌐 [digifuerdi.github.io](https://digifuerdi.github.io)
+
+---
+
+## 💬 Motto
+
+> „Ich glaube, dass gute Technik einfach sein darf – wenn man sie versteht und selbst gestalten kann.“
