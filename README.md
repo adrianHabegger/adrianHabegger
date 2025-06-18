@@ -29,7 +29,7 @@ Ich bin gelernter Produktionsmechaniker EFZ / Mechapraktiker – mit einer tiefe
 ## 📫 Kontakt
 
 📍 Emmental, Schweiz  
-📨 adrian.habegger@proton.me *(Beispiel – anpassen!)*  
+📨 adrianhab90@gmaul.com  
 🌐 [digifuerdi.github.io](https://digifuerdi.github.io)
 
 ---
