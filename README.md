@@ -34,6 +34,5 @@ Ich bin gelernter Produktionsmechaniker EFZ / Mechapraktiker – mit einer tiefe
 
 ---
 
-## 💬 Motto
-
-> „Ich glaube, dass gute Technik einfach sein darf – wenn man sie versteht und selbst gestalten kann.“
+> 🧠 **Motto**  
+> „Es gibt mehr Lösungen als Probleme – die Frage ist: *von welcher Perspektive willst du es betrachten?*“
