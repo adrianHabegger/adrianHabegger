@@ -30,7 +30,7 @@ Ich bin gelernter Produktionsmechaniker EFZ / Mechapraktiker – mit einer tiefe
 
 📍 Emmental, Schweiz  
 📨 adrianhab90@gmaul.com  
-🌐 [digifuerdi.github.io](https://digifuerdi.github.io)
+🌐 [github. com/digifuerdi](https://www.github.com/digifuerdi)
 
 ---
 
