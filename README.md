@@ -2,8 +2,7 @@
 
 Ich bin gelernter Produktionsmechaniker EFZ / Mechapraktiker – mit einer tiefen Leidenschaft für Technik, Elektronik und digitale Selbstbestimmung.
 
-🔧 Seit meiner Jugend entwickle ich eigene Geräte und Lösungen – vom ESP32-Gateway bis zur Stammbaum-Software mit Datenimport.
-
+🔧 Seit meiner Jugend war der Computer, eine grosse Faszination – mit C und dann C++ fing alles an. 
 ---
 
 ## 🛠️ Was ich mache
