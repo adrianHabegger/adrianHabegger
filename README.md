@@ -35,4 +35,4 @@ Ich bin gelernter Produktionsmechaniker EFZ / Mechapraktiker – mit einer tiefe
 ---
 
 > 🧠 **Motto**  
-> „Es gibt mehr Lösungen als Probleme – die Frage ist: *von welcher Perspektive willst du es betrachten?*“
+> „Es gibt mehr Lösungen als Probleme – die Frage die sich stellt ist: *von welcher Perspektive willst du es betrachten?*“
