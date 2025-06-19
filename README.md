@@ -2,7 +2,7 @@
 
 Ich bin gelernter Produktionsmechaniker EFZ / Mechapraktiker – mit einer tiefen Leidenschaft für Technik, Elektronik und digitale Selbstbestimmung.
 
-🔧 Seit meiner Jugend war der Computer, eine grosse Faszination – mit C und dann C++ fing alles an. 
+## 🔧 Seit meiner Jugend war der Computer, eine grosse Faszination – mit C und dann C++ fing alles an. 
 ---
 
 ## 🛠️ Was ich mache
